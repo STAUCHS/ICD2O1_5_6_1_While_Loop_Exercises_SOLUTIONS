@@ -10,3 +10,5 @@ while x < 30:
 
 Write your answer below:
 ------------------------
+10
+50

@@ -10,3 +10,5 @@ while i == 0:
 
 Write your answer below:
 ------------------------
+The while loop condition never evaluates to True so the body of the loop will never execute.
+To fix this, we need to change the condition to i >= 0.
